@@ -1,0 +1,8 @@
+{
+  "name": "CONTROLE E MANUTENÇÃO DA FROTA rev 01",
+  "description": "Sistema completo de checklist, manutenção e gestão de frotas com IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
